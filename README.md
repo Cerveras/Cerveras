@@ -1,5 +1,14 @@
-## Hi, my name is Cerveras 👋
-<img scr="https://imgur.com/YcoSj0i">
+## Hi there, my name is Cerveras 👋
+![Image](https://github.com/user-attachments/assets/2268f06c-f813-4c21-bfc4-ec666afab3ba)
+
+<div align="center">
+
+You have discovered my Github profile. <br>
+Please feel free to clone/fork projects or improve my projects if you think something could be better. <br>
+
+<i>Enjoy!</i> 😊
+
+</div>
 
 <!--
 **Cerveras/Cerveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
